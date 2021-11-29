@@ -1,5 +1,3 @@
-Parsing XML document
-
 The task that was solved
 
 The program receives as input a string to the folder where the document is located.
