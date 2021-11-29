@@ -1,6 +1,7 @@
 # TMS_Lesson_17
 Parsing XML document
 
+The task that was solved
 The program receives as input a string to the folder where the document is located.
 You only need to parse one document - accordingly, provide for various checks, for example, for the fact that there are no files in the folder, or there are several xml documents in the folder and other possible checks.
 If the transferred folder does not contain files, but contains only one other subfolder - therefore, you need to check the contents of the subfolder.
